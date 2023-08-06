@@ -70,7 +70,7 @@ Evaluation
 I evaluated the performance of this model based on pipeline modeling. 
 
 Results
-The results obtained from the trained model are summarized in the pdf document "Diabetes_Predictions". This 
+The results obtained from the trained model are summarized in the pdf document "Diabetes_Prediction". This 
 includes performance metrics, visualizations, and insights gained from the analysis of the dataset.
 
 Contributing
